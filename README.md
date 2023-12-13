@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Eres.
-- 👀 I’m interested in Python, Edudcation Technologies.
-- 🌱 I’m currently learning Python BackendDevelopment in MathsHub School.
+- 👋 Hi, I’m Eres. Live in Almaty (Kazakhstan).
+- 👀 I’m interested in Backend Development in Python (Django), Education Technologies.
+- 🌱 Ready for first job as a Python Developer.
 - 📫 Email me: ereskarasal94@gmail.com
 <!---
 rs-karasal/rs-karasal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
