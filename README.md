@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eres. Live in Almaty (Kazakhstan).
-- 👀 I’m interested in Backend Development in Python (Django), Education Technologies.
+- 👀 I’m interested in Backend Development in Python (Django, FastAPI), Education Technologies.
 - 🌱 Ready for first job as a Python Developer.
 - 📫 Email me: ereskarasal94@gmail.com
 <!---
